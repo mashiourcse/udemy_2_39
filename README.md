@@ -1,7 +1,6 @@
 # flutter_appppp
 
-A new Flutter application.
-
+complete code upto folder 2 39 video
 ## Getting Started
 
 This project is a starting point for a Flutter application.
